@@ -1,4 +1,4 @@
-# auto-arima: Automated Time Series Forecasting with ARIMA Models
+# Automated Time Series Forecasting with ARIMA Models
 
 ![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)
 
@@ -10,7 +10,7 @@ Time series forecasting is a critical aspect of data analysis, and ARIMA models 
 
 ## Features
 
-- **Data Preprocessing:** Auto-ARIMA automates the preparation of time series data by addressing issues related to stationarity and transformations.
+- **Data Preprocessing:** `auto-arima` automates the preparation of time series data by addressing issues related to stationarity and transformations.
 
 - **Exploratory Data Analysis:** Visualizations of ACF help users gain insights into the autocorrelation structure of the time series.
 
@@ -18,7 +18,7 @@ Time series forecasting is a critical aspect of data analysis, and ARIMA models 
 
 ## Getting Started
 
-To use Auto-ARIMA for your time series forecasting:
+To use `auto-arima` for your time series forecasting:
 
 1. Clone this repository to your local machine.
 
